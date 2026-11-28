@@ -34390,7 +34390,28 @@
       "transliteration": "Fuan ni natte kita.",
       "category": "Emotions",
       "generated_at": "2026-11-28T12:07:08.658726"
+    },
+    {
+      "english": "I want udon, but not too spicy.",
+      "japanese": "うどんが食べたいけど、辛くなくていい。",
+      "transliteration": "Udon ga tabetai kedo, karaku nakute ii.",
+      "category": "Food",
+      "generated_at": "2026-11-28T17:43:22.069922"
+    },
+    {
+      "english": "How about trying takoyaki today?",
+      "japanese": "今日、たこ焼きを食べない？",
+      "transliteration": "Kyou, takoyaki o tabenai?",
+      "category": "Food",
+      "generated_at": "2026-11-28T17:43:22.069938"
+    },
+    {
+      "english": "This miso soup smells amazing.",
+      "japanese": "この味噌汁、いい匂いだね。",
+      "transliteration": "Kono misoshiru, ii nioi da ne.",
+      "category": "Food",
+      "generated_at": "2026-11-28T17:43:22.069940"
     }
   ],
-  "last_updated": "2026-11-28T12:07:08.658730"
+  "last_updated": "2026-11-28T17:43:22.069942"
 }
